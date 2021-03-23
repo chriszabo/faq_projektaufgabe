@@ -1,0 +1,34 @@
+.align_center {
+    text-align: center;
+}
+
+.qa_block {
+    background-color: steelblue;
+    margin: 10px;
+    padding: 50px;
+    color: white;
+}
+
+h1 {
+    text-align: center;
+    color: steelblue;
+}
+
+h2 {
+    text-align: center;
+}
+
+h3 {
+    margin: 0;
+    opacity: 0.5;
+}
+
+form {
+    display: inline-block;
+}
+
+a, a:hover, a:focus, a:active{
+    text-decoration: none;
+    color: steelblue;
+    font-size: 1.5em;
+}
